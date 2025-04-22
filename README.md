@@ -1,5 +1,5 @@
 # Flat-Top Hexagons in Cormas Pharo 13
-<p align="center"><img alt="CORMAS" src="https://github.com/user-attachments/assets/e9ac7a8c-f3c7-428e-af9a-6540f6e848a2" style="width: 50%; height: 50%">
+<p align="center"><img alt="CORMAS" src="https://github.com/user-attachments/assets/e9ac7a8c-f3c7-428e-af9a-6540f6e848a2" style="width: 50%; height: 50%"></p>
 
 
 ## Overview
@@ -40,6 +40,12 @@ grid addAgent: agent2 toCell: (grid cellDictionary at: (HexCoordinate fromAxialQ
 grid visualize.
 
 ```
+## Output :
+
+
+<p align="center"><video alt="CORMAS" src="https://github.com/user-attachments/assets/b9bd0769-3ef9-4d18-93dd-61fffb11a1e9" style="width: 50%; height: 50%"></p>
+
+
 
 ## Customization
 * Change the grid radius in ```initializeRadius```
