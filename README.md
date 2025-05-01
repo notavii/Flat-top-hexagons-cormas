@@ -47,7 +47,10 @@ grid visualize.
 
 
 
-## Customization
+## ⚙Customization
 * Change the grid radius in ```initializeRadius```
 * Add more agents
 * Implement custom agent interactions. 
+
+## 🚀Contributors
+### if you face any issue or want something to be improved, you are welcome to raise issues.
